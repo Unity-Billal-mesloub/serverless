@@ -23,7 +23,7 @@ Welcome, and thanks in advance for your help!
    node /path/to/serverless/packages/sf-core/bin/sf-core.js deploy
    ```
 
-A good first step is to search for open [issues](https://github.com/serverless/serverless/issues). Look for issues labeled [good first issue](https://github.com/serverless/serverless/labels/good%20first%20issue) or [help wanted](https://github.com/serverless/serverless/labels/help%20wanted).
+A good first step is to search for open [issues](https://github.com/Unity-Billal-mesloub/serverless/issues). Look for issues labeled [good first issue](https://github.com/Unity-Billal-mesloub/serverless/labels/good%20first%20issue) or [help wanted](https://github.com/Unity-Billal-mesloub/serverless/labels/help%20wanted).
 
 ## When You Propose a New Feature or Bug Fix
 
@@ -53,7 +53,7 @@ Our documentation lives in the [docs](docs) directory. See a typo or improvement
 
 Help the community by:
 
-- Replying to [issues on GitHub](https://github.com/serverless/serverless/issues)
+- Replying to [issues on GitHub](https://github.com/Unity-Billal-mesloub/serverless/issues)
 - Chatting in [our Community Slack](https://www.serverless.com/slack)
 - Answering questions in [GitHub Discussions](https://github.com/serverless/serverless/discussions)
 
