@@ -1,4 +1,3 @@
-[![Serverless Framework AWS Lambda AWS DynamoDB AWS API Gateway](https://github.com/Unity-Billal-mesloub/serverless/assets/2752551/66a8c6a9-bc4a-4116-b139-90c12963337e)](https://serverless.com)
 
 <br/>
 
